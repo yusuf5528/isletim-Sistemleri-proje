@@ -1,11 +1,11 @@
 # İşletim Sistemleri 49. Grup
 isletim sistemleri 1.odev
 # Grup Üyelerinin İsimleri
-* Ahmet Emir Bayır
-* Enes Malik Şenyürek
-* Yusuf Dursun
-* Furkan Karama
-* Eren Kaya
+* Ahmet Emir Bayır         G191210094 
+* Enes Malik Şenyürek      G191210001
+* Yusuf Dursun             G191210028
+* Furkan Karama            G191210073
+* Eren Kaya                G191210043
 # Dosyalar 
 * Main.c
 > Main.c tüm fonksiyonları ve structları içeren bir kaynak dosyasıdır. Bu kaynak dosyasında, kullanıcı tarafından girilen komutları parçalama işlemleri ve fork, execvp vb. komutların icrası gerçekleştirilir.
